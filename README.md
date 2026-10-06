@@ -45,7 +45,7 @@ The features used for classification are:
 
 ## Machine Learning Model
 
-A Random Forest Classifier was used for predicting the Iris flower species.
+A Random Forest Classifier was used to predict the Iris flower species.
 
 The dataset was divided into:
 
